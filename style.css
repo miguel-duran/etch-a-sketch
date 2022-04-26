@@ -1,0 +1,15 @@
+.container{
+    background-color: burlywood;
+    width: 960px;
+    height: 750px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.square{
+    border: 1px black solid;
+    box-sizing: border-box;
+    display: flex;
+}
+
